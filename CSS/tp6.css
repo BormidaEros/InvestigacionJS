@@ -1,6 +1,18 @@
 body{
  background-color: #DAD7CD;
 }
+li{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+strong{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
 .Titulo h1{
     padding: 20px 0;
     text-align: center;
