@@ -1,6 +1,9 @@
 body{
  background-color: #DAD7CD;
 }
+h1{
+    font-family: 'Titulos';
+}
 li{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -9,6 +12,7 @@ strong{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
+
 p{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -17,7 +21,6 @@ p{
     padding: 20px 0;
     text-align: center;
     font-size: 2.3em;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .Contenedor {
     background-color: #A3B18A ;
@@ -47,3 +50,9 @@ p{
  text-align: center;
  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+@font-face {
+    font-family:'Titulos';
+    src: url("Downloads\LiberationSerif-Regular.ttf") format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
